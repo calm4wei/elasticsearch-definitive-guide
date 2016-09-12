@@ -35,4 +35,4 @@ GET /_search?size=5&from=10
 
 ****
 
-TIP: 在 <<reindex>> 中我们解释了如何有效的获取大量的文档。
+TIP: 在 <<reindex>> 中我们解释了如何有效的获取大量的文档。 
